@@ -1,0 +1,14 @@
+{
+  "model_name": "Random Forest",
+  "feature_count": 74,
+  "sample_rate": 22050,
+  "min_samples": 4096,
+  "classes": {
+    "0": "Normal",
+    "1": "Abnormal"
+  },
+  "test_accuracy": 0.9936708860759493,
+  "roc_auc": 0.9986078736078736,
+  "abnormal_recall": 0.9615384615384616,
+  "trained_on": "wav_files"
+}
